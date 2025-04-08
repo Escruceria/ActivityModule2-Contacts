@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ActivityModule2Contacts" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Aquí puedes personalizar colores si deseas -->
+    </style>
+
+    <style name="Theme.ActivityModule2Contacts" parent="Base.Theme.ActivityModule2Contacts" />
+</resources>
